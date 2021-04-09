@@ -86,4 +86,3 @@ function convertToRoman(num) {
      return res;
     }
     
-    console.log(convertToRoman(891))
